@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LeonsSweetGateOpenerApp</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="trigger_gate">Trigger Gate</string>
+    <string name="gate">Gate</string>
+</resources>
